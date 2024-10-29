@@ -1,0 +1,12 @@
+1. Virat Kohli -> India -> Batsman -> 20000000
+2. Jasprit Bumrah -> India -> Bowler -> 18000000
+3. Ben Stokes -> England -> All-rounder -> 16000000
+4. Rashid Khan -> Afghanistan -> Spinner -> 14000000
+24. Yuzvendra Chahal -> India -> Spinner -> 12000000
+25. Sanju Samson -> India -> Wicketkeeper -> 10000000
+26. Rashid Khan -> Afghanistan -> Spinner -> 14000000
+27. Suryakumar Yadav -> India -> Batsman -> 12000000
+28. Kieron Pollard -> West Indies -> All-rounder -> 14000000
+29. David Malan -> England -> Batsman -> 9000000
+30. Shubman Gill -> India -> Batsman -> 10000000
+31. Bhuvneshwar Kumar -> India -> Bowler -> 11000000
